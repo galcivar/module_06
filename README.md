@@ -12,7 +12,8 @@ Using data visualization skills, including aggregation, interactive visualizatio
 
 ## Usage
 You can use this program by navigating to the folder of the project and run:
-`jupiter lab` then open the `san_francisco_housing.ipynb` file in Jupiter Lab
+`jupiter lab` 
+then open the `san_francisco_housing.ipynb` file in Jupiter Lab
 
 ---
 
